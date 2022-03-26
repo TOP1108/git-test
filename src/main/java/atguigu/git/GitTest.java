@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("qwerty");
         System.out.println(1213);
         System.out.println(1213);
+        System.out.println("hot-fix test");
     }
 }
