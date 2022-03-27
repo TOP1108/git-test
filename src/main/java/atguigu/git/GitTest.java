@@ -22,5 +22,6 @@ public class GitTest {
 
         System.out.println("master test");
         System.out.println("push test");
+         System.out.println("先pull 后push test");
     }
 }
